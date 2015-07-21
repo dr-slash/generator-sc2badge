@@ -2,10 +2,8 @@
 <html lang="fr-FR">
 <head>
 <meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
 <link href='http://fonts.googleapis.com/css?family=Exo:400,100,100italic,200,200italic,300,300italic,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 <style type="text/css">
-/* BADGE */
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
