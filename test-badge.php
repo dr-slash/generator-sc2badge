@@ -1,0 +1,1 @@
+<iframe src="http://sc2badge.drslash.com/badge.php?bneturl=http://eu.battle.net/sc2/en/profile/4349666/1/Sacsri/" frameborder="0" height="110" width="100%"></iframe>
